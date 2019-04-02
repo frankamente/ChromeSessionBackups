@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeSessionBackups", "ChromeSessionBackups\ChromeSessionBackups.csproj", "{7EF9E1BD-059A-474D-BE43-03F173BC5B2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeBackups", "ChromeBackups\ChromeBackups.csproj", "{CDDC12EF-4062-4171-A4FB-5F88868F3C47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EF9E1BD-059A-474D-BE43-03F173BC5B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EF9E1BD-059A-474D-BE43-03F173BC5B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EF9E1BD-059A-474D-BE43-03F173BC5B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EF9E1BD-059A-474D-BE43-03F173BC5B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDDC12EF-4062-4171-A4FB-5F88868F3C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDC12EF-4062-4171-A4FB-5F88868F3C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDC12EF-4062-4171-A4FB-5F88868F3C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDC12EF-4062-4171-A4FB-5F88868F3C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

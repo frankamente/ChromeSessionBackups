@@ -1,4 +1,4 @@
-﻿namespace ChromeSessionBackups
+﻿namespace ChromeBackups
 {
     internal class Program
     {
